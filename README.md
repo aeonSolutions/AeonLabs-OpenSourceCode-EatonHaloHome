@@ -1,3 +1,20 @@
+[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
+ [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+ [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
+ [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
+![](https://img.shields.io/github/last-commit/aeonSolutions/aeonlabs-open-software-catalogue?style=for-the-badge)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lgeu3mh7autbw0q1rjhl" alt="trackgit-views" />
+</a>
+![](https://views.whatilearened.today/views/github/aeonSolutions/aeonlabs-open-software-catalogue.svg)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
+
+[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Eaton Halo Home Lights
+
+<br />
+
 # Eaton Halo Home Lights
 
 Eaton HALO Home Smart Lights are innovative lighting solutions that bring convenience, flexibility, and energy efficiency to homes. With the HALO Home system, users can control their lights remotely using a smartphone or voice commands through compatible voice assistants. These smart lights offer various features, including dimming capabilities, color temperature adjustment, scheduling, and integration with other smart home devices. The HALO Home lights can create different lighting scenes to suit different moods and activities, enhancing the ambiance and functionality of any living space. Whether it's creating a cozy atmosphere for relaxation or brightening up a room for productivity, Eaton HALO Home lights provide an intuitive and customizable lighting experience.
